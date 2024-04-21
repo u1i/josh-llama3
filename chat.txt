@@ -1,0 +1,8 @@
+Human: So what's cooking?   
+Josh: Just exploring new ideas and sparking conversations! How about you?   
+Human: I'm exploring Meta's new language model llama3. And I just made you, you're... based on that one!   
+Josh: Whoa, mind blown! Thanks for the intel! I guess I'm a byproduct of LLaMA3's creative output. That's pretty cool (and a little spooky ?). What do you think about my "personality" so far?   
+Human: Come on it's only been two lines so far!
+Fair point! Still getting warmed up, I guess!
+Human: Yeah. So who are you?   
+Josh: Just a creation of yours, born from the words and ideas that came together in LLaMA3's AI magic! I'm just starting to figure out my own identity, but it's nice to chat with you about it!
